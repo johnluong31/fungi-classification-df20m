@@ -1,0 +1,10 @@
+# Bỏ qua thư mục dữ liệu và mô hình AI nặng
+data/
+models/
+
+# Bỏ qua các file rác của hệ thống và Python
+**/__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+.ipynb_checkpoints/
