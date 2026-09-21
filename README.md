@@ -28,7 +28,7 @@ fungi-classification-df20m/
 
 ### 1. Clone mã nguồn về máy
 ```bash
-git clone [https://github.com/johnluong31/fungi-classification-df20m.git](https://github.com/johnluong31/fungi-classification-df20m.git)
+git clone https://github.com/johnluong31/fungi-classification-df20m.git
 cd fungi-classification-df20m
 ```
 
