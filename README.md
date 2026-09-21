@@ -36,7 +36,7 @@ cd fungi-classification-df20m
 
 **Sử dụng Conda:**
 ```bash
-conda create -n fungi-df20 python=3.10 -y
+conda create -n fungi-df20 python=3.11 -y
 conda activate fungi-df20
 ```
 
