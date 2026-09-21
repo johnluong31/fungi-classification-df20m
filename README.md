@@ -63,5 +63,5 @@ python web/app.py
 
 Sau khi khởi chạy thành công, mở trình duyệt web và truy cập vào địa chỉ:
 ```text
-[http://127.0.0.1:7860](http://127.0.0.1:7860)
+http://127.0.0.1:7860
 ```
