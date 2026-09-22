@@ -65,3 +65,9 @@ Sau khi khởi chạy thành công, mở trình duyệt web và truy cập vào 
 ```text
 http://127.0.0.1:7860
 ```
+
+---
+
+## 📊 Kết quả đánh giá mô hình
+
+![Confusion Matrix](results/figures/confusion_matrix.png)

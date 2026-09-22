@@ -127,9 +127,9 @@ terminado==0.18.1
 threadpoolctl==3.7.0
 tinycss2==1.5.1
 tomlkit==0.14.0
-torch==2.5.1+cu121
-torchaudio==2.5.1+cu121
-torchvision==0.20.1+cu121
+torch>=2.0.0
+torchaudio
+torchvision
 tornado==6.5.10
 tqdm==4.70.1
 traitlets==5.16.1
