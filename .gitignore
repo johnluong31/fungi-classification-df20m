@@ -1,5 +1,7 @@
 # Bỏ qua thư mục dữ liệu và mô hình AI nặng
 data/
+!data/processed/
+!data/processed/label_mapping.json
 # models/
 
 # Bỏ qua các file rác của hệ thống và Python
