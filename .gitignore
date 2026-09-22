@@ -1,7 +1,8 @@
-# Bỏ qua thư mục dữ liệu và mô hình AI nặng
-data/
-!data/processed/
-!data/processed/label_mapping.json
+# Bỏ qua dữ liệu ảnh nặng, giữ lại toàn bộ file mapping/metadata đã xử lý
+data/raw/
+data/processed/images/
+!data/processed/*.json
+!data/processed/*.csv
 # models/
 
 # Bỏ qua các file rác của hệ thống và Python

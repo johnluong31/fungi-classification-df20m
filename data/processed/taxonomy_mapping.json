@@ -1,0 +1,22 @@
+{
+    "Boletus edulis Bull.": {
+        "genus": "Boletus",
+        "family": "Boletaceae"
+    },
+    "Amanita muscaria (L.) Lam., 1783": {
+        "genus": "Amanita",
+        "family": "Amanitaceae"
+    },
+    "Mycena galericulata (Scop.) Gray": {
+        "genus": "Mycena",
+        "family": "Mycenaceae"
+    },
+    "Clitocybe nebularis (Batsch) Qu\u00e9l.": {
+        "genus": "Clitocybe",
+        "family": "Tricholomataceae"
+    },
+    "Amanita rubescens (Pers.) Gray": {
+        "genus": "Amanita",
+        "family": "Amanitaceae"
+    }
+}
