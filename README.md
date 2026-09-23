@@ -34,7 +34,7 @@ fungi-classification-df20m/
 ### 1. Clone mã nguồn về máy
 
 ```bash
-git clone [https://github.com/johnluong31/fungi-classification-df20m.git](https://github.com/johnluong31/fungi-classification-df20m.git)
+git clone https://github.com/johnluong31/fungi-classification-df20m.git
 cd fungi-classification-df20m
 ```
 
@@ -71,7 +71,7 @@ python web/app.py
 
 Sau khi khởi chạy thành công, mở trình duyệt web và truy cập vào địa chỉ:
 ```text
-[http://127.0.0.1:7860](http://127.0.0.1:7860)
+http://127.0.0.1:7860
 ```
 
 ---
