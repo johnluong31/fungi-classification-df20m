@@ -77,7 +77,7 @@ def evaluate_model():
     print("KẾT QUẢ TRÊN TẬP TEST")
     print("="*40)
     print(f"Accuracy (Độ chính xác tổng): {acc:.4f}")
-    print(f"Top-3 Accuracy: {top3_acc:.4f}")
+    print(f"Top-3 Accuracy (Độ chính xác Top-3): {top3_acc:.4f}")
     print(f"Macro-F1 (Trọng số công bằng):  {macro_f1:.4f}")
     print("\nBáo cáo chi tiết:")
     print(classification_report(all_labels, all_preds, target_names=class_names))
