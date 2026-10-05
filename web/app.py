@@ -55,7 +55,7 @@ with gr.Blocks() as demo:
     gr.HTML("""
         <div style="background-color: #ffe6e6; padding: 15px; border-left: 5px solid #ff3333; margin-bottom: 20px;">
             <h3 style="margin-top: 0; color: #cc0000;">⚠️ CẢNH BÁO AN TOÀN TỪ NHÓM PHÁT TRIỂN</h3>
-            Hệ thống này chỉ phục vụ mục đích <b>học thuật và demo</b>. TUYỆT ĐỐI KHÔNG sử dụng kết quả dự đoán để quyết định ăn bất kỳ loại nấm nào ngoài tự nhiên.
+            <h5 style="margin-top: 0; color: #000000;">Hệ thống này chỉ phục vụ mục đích học thuật và demo. TUYỆT ĐỐI KHÔNG sử dụng kết quả dự đoán để quyết định ăn bất kỳ loại nấm nào ngoài tự nhiên.</h5>
         </div>
     """)
     
